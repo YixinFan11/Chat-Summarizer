@@ -1,0 +1,11 @@
+
+################# Deoendencies to download #################
+
+
+transformers
+bert-extractive-summarizer 
+pytorch-transformers
+transformers torch sentencepiece
+
+streamlit
+stqdm
