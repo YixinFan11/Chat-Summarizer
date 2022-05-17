@@ -176,7 +176,7 @@ def distilbart_summary(bad_words,user_list,start_dat, end_dat,text):
             chat_sum_dict_distilbart[key] = str(summary_text)
         return chat_sum_dict_distilbart
 
-st.write('Creating Summary...... Usually take long time when running it the first time')
+st.write('Creating Summary...... Usually take long time if it contains too much contents')
 
 answer = distilbart_summary(bad_words,user_list,start_date,end_date,data)
 
