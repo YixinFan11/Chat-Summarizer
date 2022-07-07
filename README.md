@@ -1,4 +1,4 @@
-# DIA-Submission
+# Chat Summarizer
 
 ## About Data
 The data used in this agent is the ***ChatHistory.txt*** downloaded from WhatsApp application. Due to the privacy reason, this txt will be uploaded through Moodles.
